@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "XxksNK74KlUxe7KSADrlOcp6gW8=",
+			"path": "github.com/startdusk/goutil",
+			"revision": "aed892cce3ed1485ace660c0126eaca21c4b56b3",
+			"revisionTime": "2019-08-15T15:43:25Z"
+		},
+		{
+			"checksumSHA1": "zLYUTc6UYjW2vKuFimUTIR7Pqhg=",
+			"path": "github.com/startdusk/goutil/hash",
+			"revision": "aed892cce3ed1485ace660c0126eaca21c4b56b3",
+			"revisionTime": "2019-08-15T15:43:25Z"
+		}
+	],
+	"rootPath": "easy_go"
+}
