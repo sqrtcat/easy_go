@@ -1,4 +1,4 @@
-package lib
+package easy_go
 
 import "fmt"
 
