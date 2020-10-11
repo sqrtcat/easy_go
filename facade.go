@@ -11,5 +11,5 @@ func Hello() {
 }
 
 func Md5() {
-	fmt.Println("Md5 Tips:" + hash.StringMd5("hello go"))
+	fmt.Println("Md5 Tips: " + hash.StringMd5("hello go"))
 }
