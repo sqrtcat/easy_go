@@ -2,6 +2,7 @@ package easy_go
 
 import (
 	"fmt"
+	"github.com/spf13/viper"
 	"github.com/sqrtcat/easy_go/lib"
 	"github.com/startdusk/goutil/hash"
 )
