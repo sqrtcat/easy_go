@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "easy_go/lib"
 
 func main() {
-  fmt.Println("hello world")
+	lib.Hello()
 }
