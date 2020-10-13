@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	easy_go.Hello()
-	easy_go.Md5()
+	facade.Hello()
+	facade.Md5()
 }
 
