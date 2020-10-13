@@ -1,4 +1,4 @@
-package easy_go
+package facade
 
 import (
 	"fmt"
